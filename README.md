@@ -5,7 +5,7 @@
 <li>
   🔭 I’m currently working on web development
 </li>
-<li>
+<li> 
    🌱 I’m currently learning Web development and Python
 </li>
 </ul>
